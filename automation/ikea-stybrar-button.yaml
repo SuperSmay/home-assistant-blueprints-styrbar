@@ -1,6 +1,6 @@
 mode: restart
 blueprint:
-  name: IKEA BILRESA Dual Button
+  name: IKEA STYBRAR Dual Button
   author: Skaronator
   description: |
     # IKEA BILRESA Dual Button Remote Automation
